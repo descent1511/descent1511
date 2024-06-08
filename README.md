@@ -33,28 +33,6 @@ Hi, I'm Le Hoang Truong, a third-year student at ITMO University with a passion 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-## Projects
-
-### Lotus | Team Project (May 2023)
-
-Collaborated with a team of 5 members to deliver an e-commerce website for selling clothes. I served as the Back-End Developer, leading the implementation of the server-side logic and database integration, and building APIs using Node.js.
-
-- **GitHub:** [Lotus Repository](https://github.com/DivSTeam/lotus)
-- **Technology:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### BusGo | Personal Project (Jan 2024)
-
-Developed a full-stack application that assists users in finding information about bus stations, routes, and schedules. The application offers a convenient way to access public transport information via the internet, with the front-end built using Vue.js and the back-end deployed using Django.
-
-- **GitHub:** [BusGo Repository](https://github.com/descent1511/bus-station)
-- **Technology:** ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### NutriLog | Personal Project (Dec 2023)
-
-Developed the front-end interface for an application dedicated to searching for dishes, retrieving calorie information, and calculating daily calorie intake.
-
-- **GitHub:** [NutriLog Repository](https://github.com/descent1511/nutriLog)
-- **Technology:** ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) ![Edamam](https://img.shields.io/badge/Edamam-0F9D58?style=for-the-badge&logo=edamam&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Achievements
 
