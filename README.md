@@ -44,14 +44,3 @@ Hi, I'm Le Hoang Truong, a third-year student at ITMO University with a passion 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/truong-le-935921308/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/natibatian) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009537304420)
 
-## GitHub Stats
-
-![Truong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=descent1511&show_icons=true)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=descent1511&layout=compact)
-
-## Contributions
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=descent1511)
