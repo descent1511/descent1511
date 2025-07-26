@@ -3,7 +3,7 @@
 
 ## About Me 
 
-Hi, I'm Le Hoang Truong, a third-year student at ITMO University with a passion for algorithms and software development. 
+Hi, I'm Le Hoang Truong, graduated at ITMO University with a passion for algorithms and software development. 
 
 - 🔭 I’m currently working on enhancing my knowledge in back-end development.
 - 🌱 I’m currently learning advanced optimization methods.
