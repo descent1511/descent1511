@@ -5,13 +5,13 @@
 
 Hi, I'm Le Hoang Truong, a graduate of ITMO University with a degree in Applied Computer Science. I have a strong passion for algorithms, software engineering, and building robust back-end systems.
 
-🔧 I have hands-on experience with multiple programming languages including Java, Python, JavaScript, and C++.
-⚙️ I work with modern frameworks and tools such as Spring Boot, Django, Node.js, and Vue.js.
-🌱 Currently deepening my knowledge in advanced optimization methods and system design.
-🚀 I’m actively looking to contribute to open-source projects and collaborate on innovative tech solutions.
-🧠 I'm also interested in tackling advanced algorithmic challenges and improving my competitive programming skills.
-💬 Feel free to reach out if you'd like to discuss web development, backend architecture, or just talk code!
-⚡ Fun fact: I love coding competitions — they’re my version of a workout for the brain.
+🔧 I have hands-on experience with multiple programming languages including Java, Python, JavaScript, and C++.  
+⚙️ I work with modern frameworks and tools such as Spring Boot, Django, Node.js, and Vue.js.  
+🌱 Currently deepening my knowledge in advanced optimization methods and system design.  
+🚀 I’m actively looking to contribute to open-source projects and collaborate on innovative tech solutions.  
+🧠 I'm also interested in tackling advanced algorithmic challenges and improving my competitive programming skills.  
+💬 Feel free to reach out if you'd like to discuss web development, backend architecture, or just talk code!  
+⚡ Fun fact: I love coding competitions — they’re my version of a workout for the brain.  
 
 ## My GitHub Stats
 <div style="display: flex; flex-direction: row;">
